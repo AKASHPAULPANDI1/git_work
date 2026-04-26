@@ -22,6 +22,8 @@ plt.figure(figsize=(10, 8))
 sns.heatmap(cm_data, annot=True, fmt='d', cmap='Blues', 
             xticklabels=labels, yticklabels=labels, cbar=False)
 
+##good to see this
+
 plt.title('Confusion Matrix: HFRS-DA Diagnostic Classification', fontweight='bold', pad=20)
 plt.xlabel('Predicted Category', fontweight='bold')
 plt.ylabel('Actual Category', fontweight='bold')
