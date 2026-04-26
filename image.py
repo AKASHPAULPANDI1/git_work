@@ -1,6 +1,4 @@
 #created by Akash P
-#hello i am new good
-#but this is bad
 
 
 
